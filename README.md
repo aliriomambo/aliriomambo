@@ -4,7 +4,7 @@ I'm Alírio Mambo a Software Developer at Vodafone/Vodacom
 - 🔭 I’m currently working on my Backend Development Skills
 - 📫  You can reach me at my Linkedin page https://www.linkedin.com/in/aliriomambo/
 - 🎮 I enjoy playing video games on my free time.
-
+- 🌱 I’m currently learning AWS, Design Patterns and Clean Code.
 
 <!--
 **aliriomambo/aliriomambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
