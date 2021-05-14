@@ -1,11 +1,17 @@
 ### Hi there 👋
 
+I'm Alírio Mambo a Software Developer at Vodafone/Vodacom
+🔭 I’m currently working on my Backend Development Skills
+📫 How to reach me: You can reach me at my Linkedin page https://www.linkedin.com/in/aliriomambo/
+🎮 I enjoy playing video games on my free time.
+
+
 <!--
 **aliriomambo/aliriomambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
