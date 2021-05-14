@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alírio Mambo a Software Developer at Vodafone/Vodacom
+I am a Software Developer at Vodafone/Vodacom
 - 🔭 I’m currently working on my Backend Development Skills
 - 📫  You can reach me at my [Linkedin Page](https://www.linkedin.com/in/aliriomambo/) or my Twitter [@alirio_mambo](https://twitter.com/alirio_mambo) 
 - 🎮 I enjoy playing video games on my free time.
