@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-I am a Software Developer at Vodafone/Vodacom
-- 🔭 I’m currently working on my Backend Development Skills
-- 📫  You can reach me at my [Linkedin Page](https://www.linkedin.com/in/aliriomambo/) or my Twitter [@alirio_mambo](https://twitter.com/alirio_mambo) 
-- 🎮 I enjoy playing video games on my free time.
-- 🌱 I’m currently learning about AWS, Design Patterns and Clean Code.
-
 <!--
 **aliriomambo/aliriomambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
